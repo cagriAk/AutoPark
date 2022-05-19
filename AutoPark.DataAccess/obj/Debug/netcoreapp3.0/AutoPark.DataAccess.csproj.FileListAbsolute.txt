@@ -1,0 +1,10 @@
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\bin\Debug\netcoreapp3.0\AutoPark.DataAccess.deps.json
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\bin\Debug\netcoreapp3.0\AutoPark.DataAccess.dll
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\bin\Debug\netcoreapp3.0\AutoPark.DataAccess.pdb
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.AssemblyInfo.cs
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.dll
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.DataAccess\obj\Debug\netcoreapp3.0\AutoPark.DataAccess.pdb

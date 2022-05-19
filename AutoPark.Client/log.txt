@@ -1,0 +1,76 @@
+2022-05-19 14:18:28.370 +03:00 [INF] User profile is available. Using 'C:\Users\Akbaba\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-19 14:18:28.868 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-19 14:18:28.879 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-19 14:18:28.880 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-19 14:18:28.881 +03:00 [INF] Hosting environment: Development
+2022-05-19 14:18:28.882 +03:00 [INF] Content root path: C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Client
+2022-05-19 14:18:29.397 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-19 14:18:29.428 +03:00 [INF] Executing endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:18:29.471 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AutoPark.Client.Controllers.HomeController (AutoPark.Client).
+2022-05-19 14:18:29.474 +03:00 [INF] İlk Loglama
+2022-05-19 14:18:29.490 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-19 14:18:29.583 +03:00 [INF] Executed ViewResult - view Index executed in 94.9739ms.
+2022-05-19 14:18:29.588 +03:00 [INF] Executed action AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client) in 115.0995ms
+2022-05-19 14:18:29.588 +03:00 [INF] Executed endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:18:29.595 +03:00 [INF] Request finished in 203.9884ms 200 text/html; charset=utf-8
+2022-05-19 14:18:36.006 +03:00 [INF] Application is shutting down...
+2022-05-19 14:25:35.237 +03:00 [INF] User profile is available. Using 'C:\Users\Akbaba\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-19 14:25:35.754 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-19 14:25:35.755 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-19 14:25:35.756 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-19 14:25:35.757 +03:00 [INF] Hosting environment: Development
+2022-05-19 14:25:35.757 +03:00 [INF] Content root path: C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Client
+2022-05-19 14:25:36.379 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-19 14:25:36.406 +03:00 [INF] Executing endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:25:36.469 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AutoPark.Client.Controllers.HomeController (AutoPark.Client).
+2022-05-19 14:25:36.472 +03:00 [INF] İlk Loglama
+2022-05-19 14:25:36.490 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-19 14:25:36.578 +03:00 [INF] Executed ViewResult - view Index executed in 88.429ms.
+2022-05-19 14:25:36.581 +03:00 [INF] Executed action AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client) in 110.97840000000001ms
+2022-05-19 14:25:36.584 +03:00 [INF] Executed endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:25:36.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-19 14:25:36.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-19 14:25:36.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-19 14:25:36.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-19 14:25:36.588 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-19 14:25:36.589 +03:00 [INF] Request finished in 215.7297ms 200 text/html; charset=utf-8
+2022-05-19 14:25:36.603 +03:00 [INF] The file /css/site.css was not modified
+2022-05-19 14:25:36.603 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-19 14:25:36.603 +03:00 [INF] The file /js/site.js was not modified
+2022-05-19 14:25:36.603 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-19 14:25:36.603 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-19 14:25:36.605 +03:00 [INF] Request finished in 17.6633ms 304 application/javascript
+2022-05-19 14:25:36.605 +03:00 [INF] Request finished in 17.8164ms 304 text/css
+2022-05-19 14:25:36.606 +03:00 [INF] Request finished in 18.1381ms 304 application/javascript
+2022-05-19 14:25:36.607 +03:00 [INF] Request finished in 19.5333ms 304 application/javascript
+2022-05-19 14:25:36.608 +03:00 [INF] Request finished in 20.5695ms 304 text/css
+2022-05-19 14:43:48.422 +03:00 [INF] User profile is available. Using 'C:\Users\Akbaba\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-19 14:43:49.213 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-19 14:43:49.220 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-19 14:43:49.221 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-19 14:43:49.221 +03:00 [INF] Hosting environment: Development
+2022-05-19 14:43:49.222 +03:00 [INF] Content root path: C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Client
+2022-05-19 14:43:50.054 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-19 14:43:50.074 +03:00 [INF] Executing endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:43:50.130 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AutoPark.Client.Controllers.HomeController (AutoPark.Client).
+2022-05-19 14:43:50.138 +03:00 [ERR] Customerda Hata var {"Id":1,"Name":"cagri","Age":28,"$type":"Customer"}
+2022-05-19 14:43:50.194 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-19 14:43:50.278 +03:00 [INF] Executed ViewResult - view Index executed in 85.4714ms.
+2022-05-19 14:43:50.284 +03:00 [INF] Executed action AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client) in 152.0191ms
+2022-05-19 14:43:50.286 +03:00 [INF] Executed endpoint 'AutoPark.Client.Controllers.HomeController.Index (AutoPark.Client)'
+2022-05-19 14:43:50.291 +03:00 [INF] Request finished in 238.70530000000002ms 200 text/html; charset=utf-8
+2022-05-19 14:43:50.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-19 14:43:50.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-19 14:43:50.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-19 14:43:50.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-19 14:43:50.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-19 14:43:50.314 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-19 14:43:50.314 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-19 14:43:50.314 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-19 14:43:50.314 +03:00 [INF] The file /css/site.css was not modified
+2022-05-19 14:43:50.314 +03:00 [INF] The file /js/site.js was not modified
+2022-05-19 14:43:50.318 +03:00 [INF] Request finished in 13.8048ms 304 application/javascript
+2022-05-19 14:43:50.318 +03:00 [INF] Request finished in 13.8643ms 304 application/javascript
+2022-05-19 14:43:50.318 +03:00 [INF] Request finished in 13.961400000000001ms 304 text/css
+2022-05-19 14:43:50.319 +03:00 [INF] Request finished in 14.672ms 304 text/css
+2022-05-19 14:43:50.320 +03:00 [INF] Request finished in 15.744200000000001ms 304 application/javascript

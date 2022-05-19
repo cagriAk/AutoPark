@@ -1,0 +1,10 @@
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\bin\Debug\netcoreapp3.0\AutoPark.Entities.deps.json
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\bin\Debug\netcoreapp3.0\AutoPark.Entities.dll
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\bin\Debug\netcoreapp3.0\AutoPark.Entities.pdb
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.csproj.AssemblyReference.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.AssemblyInfoInputs.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.AssemblyInfo.cs
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.dll
+C:\Users\Akbaba\source\repos\AutoPark\AutoPark.Entities\obj\Debug\netcoreapp3.0\AutoPark.Entities.pdb
